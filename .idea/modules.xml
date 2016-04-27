@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MgrGenerator/MgrGenerator.iml" filepath="$PROJECT_DIR$/MgrGenerator/MgrGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MgrProj.iml" filepath="$PROJECT_DIR$/MgrProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MgrWeb/MgrWeb.iml" filepath="$PROJECT_DIR$/MgrWeb/MgrWeb.iml" />
+    </modules>
+  </component>
+</project>
