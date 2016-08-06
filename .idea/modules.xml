@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MgrGenerator/MgrGenerator.iml" filepath="$PROJECT_DIR$/MgrGenerator/MgrGenerator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MgrProj.iml" filepath="$PROJECT_DIR$/MgrProj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MgrWeb/MgrWeb.iml" filepath="$PROJECT_DIR$/MgrWeb/MgrWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-shares.iml" filepath="$PROJECT_DIR$/hadoop-shares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MgrWeb/ss.iml" filepath="$PROJECT_DIR$/MgrWeb/ss.iml" />
     </modules>
   </component>
 </project>

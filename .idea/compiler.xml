@@ -23,14 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MgrGenerator" />
-        <module name="MgrWeb" />
+        <module name="ss" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hadoop-shares" target="1.5" />
       <module name="MgrGenerator" target="1.5" />
-      <module name="MgrProj" target="1.5" />
-      <module name="MgrProjGenerator" target="1.5" />
-      <module name="MgrWeb" target="1.5" />
+      <module name="ss" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

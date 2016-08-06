@@ -9,7 +9,33 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>MgrWeb</artifactId>
+    <artifactId>ss</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>test</scope>
+        </dependency>
+        <!-- http://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.2.5.RELEASE</version>
+        </dependency>
+        <!-- http://mvnrepository.com/artifact/org.springframework/spring-web -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>4.2.5.RELEASE</version>
+        </dependency>
+        <!-- http://mvnrepository.com/artifact/org.springframework/spring-core -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>4.2.5.RELEASE</version>
+        </dependency>
+    </dependencies>
 
 
 </project>

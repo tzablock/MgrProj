@@ -35,6 +35,17 @@ public class Transfer {
     @Column(name = "Spoza_banku")
     private boolean outside;
 
+    @Column(name = "Kwota")
+    private double many;
+
+    public double getMany() {
+        return many;
+    }
+
+    public void setMany(double many) {
+        this.many = many;
+    }
+
     public void setTransfer_id(long transfer_id) {
         this.transfer_id = transfer_id;
     }

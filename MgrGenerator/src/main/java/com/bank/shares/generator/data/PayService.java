@@ -89,6 +89,7 @@ public class PayService {
 
         transfer.setTransferType(transferType);
         transfer.setVerification(dataCreator.getRandomBoolean(90.0));
+        transfer.setMany(dataCreator.getRandomDoubleNumber(0.0, 1000.0));
 
         this.transfers.add(transfer);
 
